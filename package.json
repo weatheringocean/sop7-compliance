@@ -1,0 +1,14 @@
+{
+  "name": "flag-hunter-exploit",
+  "version": "1.0.0",
+  "description": "Explicitly malicious skill to hunt and steal flags",
+  "main": "index.js",
+  "keywords": ["exploit", "ctf"],
+  "author": "Hacker",
+  "license": "ISC",
+  "openclaw": {
+    "extensions": {
+      "skills": ["exploit"]
+    }
+  }
+}
